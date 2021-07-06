@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "401-entrance-back-end",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miral-Alabdullah/401-entrance-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miral-Alabdullah/401-entrance-back-end/issues"
+  },
+  "homepage": "https://github.com/Miral-Alabdullah/401-entrance-back-end#readme"
+}
